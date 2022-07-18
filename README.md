@@ -1,5 +1,4 @@
 # A-Monthly-Discord-Logo-Change
-Changes the Google logo each month
+Changes the Google logo each month to a different free dog png.
 
-# The code was made when I was making a keylogger (https://github.com/Ongenix/Userscript-and-One-Liner-Javascript-Keylogger)
-I just liked the project but without the keylogger (I made the monthly dog thing as a front, easy stuff)
+12 photos, only changes when you close and reload the tab
